@@ -23,13 +23,13 @@
 
 - Just, Clone this repository
 ```
-$ git clone https://github.com/KusalThemiya/Spammer
+git clone https://github.com/KusalThemiya/Spammer
 ```
 
 - Change to cloned directory and run `spammer.py`
 ```
-$ cd Spammer
-$ python3 spammer.py
+cd Spammer
+python3 spammer.py
 ```
 
 ### Dependencies
