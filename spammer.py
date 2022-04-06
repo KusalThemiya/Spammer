@@ -4,6 +4,8 @@ r ='\033[31;1m'
 g ="\033[32;1m"
 b ="\u001b[34m"
 
+os.system("clear")
+
 def banner():
     print(f"""{g}
                                                                  
